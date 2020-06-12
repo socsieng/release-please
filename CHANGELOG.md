@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/release-please?activeTab=versions
 
+### [5.3.1](https://www.github.com/googleapis/release-please/compare/v5.3.0...v5.3.1) (2020-06-12)
+
+
+### Bug Fixes
+
+* list commits of type `docs` for python ([#460](https://www.github.com/googleapis/release-please/issues/460)) ([ba06649](https://www.github.com/googleapis/release-please/commit/ba06649fc17843d3dcff16bef5cdf0f33f0d5fc4)), closes [#459](https://www.github.com/googleapis/release-please/issues/459)
+
 ## [5.3.0](https://www.github.com/googleapis/release-please/compare/v5.2.1...v5.3.0) (2020-06-11)
 
 
